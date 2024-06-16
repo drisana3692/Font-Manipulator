@@ -1,0 +1,48 @@
+body {
+    background-image: url("yes.avif");
+}
+h3 {
+    width: 500px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif!important;
+    color: black!important;
+    background-color: rgb(184, 209, 255);
+    border-style:solid;
+    border-color: black;
+    text-align: center;
+    box-shadow: 10px 10px 10px 0px rgba(0, 0, 0, 0.4);
+}
+marquee {
+
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif!important;
+    color: black!important;
+    background-color: rgb(223, 184, 255);
+    border-style:solid;
+    border-color: black;
+    text-align: center;
+}
+.copy_right_footer {
+    position: fixed;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif!important;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(255, 200, 200);
+    border-style:solid;
+    border-color: black;
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+canvas {
+    border-style: solid;
+    border-color: black;
+    box-shadow: 10px 10px 10px 0px rgb(199, 255, 218);
+    margin-left: 300px;
+    margin-top: 10px;
+}
+video {
+    margin-left: 100px;
+    border-style: solid;
+    border-color: black;
+    box-shadow: 10px 10px 10px 0px rgb(203, 249, 255);
+    margin-top: 10px;
+}
